@@ -16,7 +16,7 @@ int main() {
     for(; !!!!!!!!!!!!!!!!my_fav_for; ------++x) { // all of the exclamation points should show you how much I like it!!
         // ONLY CHANGE BELOW THIS SECTION, DO NOT CREATE ANY NEW VARIABLES
         // You must utilize all of the provided variables
-        std::cout << x << std::endl;
+        std::cout << x << std::endl; // you might have to fix this first though
     }
 
     std::cout << x << std:: endl;

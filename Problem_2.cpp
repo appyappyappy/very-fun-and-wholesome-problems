@@ -11,7 +11,7 @@ int main() {
     // TODO EASY(ish): make it decrement by 3 instead.
     // TODO EASY: every time something is divisible by 2, output "Gee whiz!"
     // TODO CHALLENGE: every time something is divisible by 2, output "Gee whiz!" – but you can't use %
-    // TODO EXPERT (google time?): every time something is divisible by 2, output "Gee whiz!" – but you can't use % or /
+    // TODO EXPERT: every time something is divisible by 2, output "Gee whiz!" – but you can only use & (yes, a SINGLE & - look it up!)
     
     for(; !!!!!!!!!!!!!!!!my_fav_for; ------++x) { // all of the exclamation points should show you how much I like it!!
         // ONLY CHANGE BELOW THIS SECTION, DO NOT CREATE ANY NEW VARIABLES

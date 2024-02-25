@@ -11,6 +11,7 @@ You also decide to accomplish these objectives by making 3 different functions t
 
 These functions are defined below.
 
+## getSmallestLargest
 <table>
 
 <tr>
@@ -103,7 +104,7 @@ The result is: 1 9
 </table>
 
 
-
+## getNumEvenOdd
 <table>
 
 <tr>
@@ -195,6 +196,8 @@ The result is: 1 4
 
 </table>
 
+
+## getRunningTotal
 <table>
 
 <tr>
@@ -286,7 +289,8 @@ The result is: 1 8 17 19 24
 
 </table>
 
-Assert statements :D If time, write a function in main to collect user input.
+## Assert tests
+If time, write a function in main to collect user input.
 ```cpp
 int main() {
     assert(getSmallestLargest("2220033") == "");
